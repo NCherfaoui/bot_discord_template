@@ -1,4 +1,4 @@
-FROM node:18-bullseye as builder
+FROM node:20-bullseye as builder
 
 WORKDIR /app
 
@@ -10,7 +10,7 @@ COPY . .
 
 RUN npm run build
 
-FROM node:18-bullseye as prod
+FROM node:20-bullseye as prod
 
 WORKDIR /app
 
