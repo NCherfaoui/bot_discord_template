@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "chai": "^5.0.0",
-    "dotenv": "^16.0.2",
+    "dotenv": "^17.0.0",
     "esbuild": "^0.25.0",
     "esbuild-runner": "^2.2.1",
     "mocha": "^11.0.0",
