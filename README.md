@@ -76,3 +76,4 @@ Once the bot is added it will appear on your Discord server in offline mode.
 You can now run the code in the repository using the command line by typing the command `npm start`. 
 
 
+
